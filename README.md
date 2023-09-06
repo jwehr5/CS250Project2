@@ -1,5 +1,4 @@
 # CS250Project2
-# CS250Project1
 How to run the Program:
   1. You'll need Microsoft Visual Studio to run the program
   2. Click on code, then download ZIP.
